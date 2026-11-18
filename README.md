@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on creating a portfolio of work for my career
+- 🌱 I’m currently learning GitHub
+- 👯 I’m looking to collaborate on finding a job
+- 🤔 I’m looking for help with technical skills like code reading and GitHub
+- 📫 How to reach me: faithwallis@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My first car was a restoration project my dad and I did - a 1966 Mercury Comet.
